@@ -9,6 +9,6 @@ It is able to list and select a file to print directly, reading the internal sdc
 Still a work in progress
 After some more tests, I'llrelease the source code,too
 here's a precompiled version of my SmoothiePanel that I'm currently using for my Hypercube Evo,embedded SmoothieMonitor almost working, too
-
+demo video here : https://www.facebook.com/1300956567/posts/10218517870920291?sfns=mo
 Maurizio Naso - NaSoFTz
 www.maurizionaso.com
